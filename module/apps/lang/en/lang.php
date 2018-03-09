@@ -1,0 +1,29 @@
+<?php
+$GLOBALS['lang']['newapp'] = 'New Application';
+$GLOBALS['lang']['name'] = 'Name';
+$GLOBALS['lang']['edit'] = 'Edit';
+$GLOBALS['lang']['del'] = 'Delete';
+$GLOBALS['lang']['back'] = 'Back';
+$GLOBALS['lang']['save'] = 'Save';
+$GLOBALS['lang']['status'] = 'Status';
+$GLOBALS['lang']['actual'] = 'Actual';
+$GLOBALS['lang']['update'] = 'Update';
+$GLOBALS['lang']['install'] = 'Install';
+$GLOBALS['lang']['reinstall'] = 'Reinstall';
+$GLOBALS['lang']['size'] = 'Size:';
+$GLOBALS['lang']['language'] = 'Language:';
+$GLOBALS['lang']['install'] = 'Install';
+$GLOBALS['lang']['modul'] = 'Modul:';
+$GLOBALS['lang']['errortype'] = 'Incorrect File Type';
+$GLOBALS['lang']['directoryname'] = 'Directory name:';
+$GLOBALS['lang']['insfile'] = 'INS file:';
+$GLOBALS['lang']['errordirectory'] = 'There already exists a folder with the name: ';
+$GLOBALS['lang']['noapp'] = 'There are no applications installed!';
+$GLOBALS['lang']['errordownload'] = 'There was an error when downloading the application!';
+$GLOBALS['lang']['statusinstall'] = 'Installing...';
+$GLOBALS['lang']['statusfinish'] = 'Finish';
+$GLOBALS['lang']['statusundefinied'] = 'Undefinied';
+$GLOBALS['lang']['finishinstall'] = 'The application has been successfully loaded onto your webspace. To continue, please click Next.';
+$GLOBALS['lang']['next'] = 'Next';
+$GLOBALS['lang']['select'] = 'Select';
+ ?>

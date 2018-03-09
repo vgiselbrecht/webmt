@@ -1,0 +1,1 @@
+<?php $GLOBALS["CONFIG"]["dataserver"] = "http://data.webmt.org/"; ?>

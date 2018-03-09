@@ -1,0 +1,29 @@
+<?php 
+$GLOBALS['lang']['newapp'] = 'Neue Anwendung';
+$GLOBALS['lang']['name'] = 'Name';
+$GLOBALS['lang']['edit'] = 'Bearbeiten';
+$GLOBALS['lang']['del'] = 'L&ouml;schen';
+$GLOBALS['lang']['back'] = 'Zur&uuml;ck';
+$GLOBALS['lang']['save'] = 'Speichern';
+$GLOBALS['lang']['status'] = 'Status';
+$GLOBALS['lang']['actual'] = 'Aktuell';
+$GLOBALS['lang']['update'] = 'Update';
+$GLOBALS['lang']['install'] = 'Installieren';
+$GLOBALS['lang']['reinstall'] = 'Neuinstallation';
+$GLOBALS['lang']['size'] = 'Gr&ouml;&szlig;e:';
+$GLOBALS['lang']['language'] = 'Sprache:';
+$GLOBALS['lang']['install'] = 'Installieren';
+$GLOBALS['lang']['modul'] = 'Modul:';
+$GLOBALS['lang']['errortype'] = 'Falscher Dateitype';
+$GLOBALS['lang']['directoryname'] = 'Verzeichnis-Name:';
+$GLOBALS['lang']['insfile'] = 'INS-Datei:';
+$GLOBALS['lang']['errordirectory'] = 'Es existiert bereits ein Ordner mit der Bezeichnung: ';
+$GLOBALS['lang']['noapp'] = 'Es sind keine Anwendungen installiert!';
+$GLOBALS['lang']['errordownload'] = 'Es ist ein Fehler beim Download der Anwendung aufgetreten!';
+$GLOBALS['lang']['statusinstall'] = 'Installiert...';
+$GLOBALS['lang']['statusfinish'] = 'Fertig';
+$GLOBALS['lang']['statusundefinied'] = 'Unbekannt';
+$GLOBALS['lang']['finishinstall'] = 'Die Anwendung wurde erfolgreich auf Ihrem Webspace geladen. Um fortzufahren Bitte auf Weiter klicken.';
+$GLOBALS['lang']['next'] = 'Weiter';
+$GLOBALS['lang']['select'] = 'Auswählen';
+ ?>

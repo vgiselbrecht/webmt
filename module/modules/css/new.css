@@ -1,0 +1,19 @@
+.element
+{   margin: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #BBB;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 2px #BBB;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFF), to(#EEE));
+    background: -moz-linear-gradient(0% 6% 270deg,#FFF, #EEE);
+}
+.title
+{
+    font-size: 20px;
+    padding: 5px;
+}
+.down
+{
+padding-top: 10px;
+}

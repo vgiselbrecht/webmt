@@ -1,0 +1,191 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: #EEE;
+    font-size: 17px;
+    color: #333333;
+    overflow-y:scroll;
+    font-family: Arial;
+}
+a, a:visited {
+  color: #333333;
+  text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+h2
+{
+    font-size: 22px;
+}
+#header {
+    height: 70px;
+    background-color: #F8F8FA;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 2px #AAA;
+    position: relative;
+    width: 1000px;
+    top: 30px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#wrapper {
+    width: 1000px;
+    margin:0 auto;
+}
+#nav {
+    background-color: #F8F8FA;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 2px #AAA;
+    width: 200px;
+    position: relative;
+    top: 30px;
+    float:left;
+}
+#content {
+    background-color: #F8F8FA;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 2px #AAA;
+    position: relative;
+    width: 770px;
+    top: 30px;
+    float:right;
+    margin: 0;
+}
+.top_label
+{
+    height: 20px;
+    background-color: #BBB;
+    border-radius: 5px 5px 0px 0px;
+    text-align: left;
+    font-size: 19px;
+    padding: 5px;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#BBB), to(#AAA));
+    background: -moz-linear-gradient(0% 6% 270deg,#BBB, #AAA);
+    background: linear-gradient(180deg,#BBB, #AAA);
+}
+.inside
+{
+    padding: 10px;
+    text-align:left;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFF), to(#EEE));
+    background: -moz-linear-gradient(0% 6% 270deg,#FFF, #EEE);
+    background: linear-gradient(180deg,#FFF, #EEE);
+    border-radius: 0px 0px 5px 5px ;    
+}
+.navimage
+{
+    float: left;
+}
+.navtext
+{
+    float: left;
+    padding-left: 5px;
+}
+.navline:hover{
+    background-color: #EEE;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 2px #CCC;
+    border: 1px solid #BBB;
+}
+.navline
+{
+    width: 180px;
+    height: 55px;
+    border: 1px solid transparent;
+}
+.start_moduls
+{
+    float:left;
+    padding: 10px;
+    margin: 5px;
+    width: 130px;
+    height: 140px;
+    text-align:center;
+    border: 1px solid transparent;
+}
+.start_moduls:hover
+{
+    border: 1px solid #BBB;
+    border-radius: 15px;
+    box-shadow: 0 0 8px 2px #CCC;
+    background-color: #EEE;
+    text-decoration: none;
+}
+.content_nav
+{
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+    padding-bottom: 5px;   
+}
+/*input[type=text], input[type=password], input[type=file] 
+{
+    box-shadow: 0 0 4px 1px #DDD;
+}
+input[type=text]:focus, input[type=password]:focus, input[type=file]:focus
+{
+    box-shadow: 0 0 4px 1px #AAA;
+}*/
+.table {
+    border-top: 1px solid gray;
+    box-shadow: 0 0 8px 2px #AAA;
+}
+.firstline {
+    font-size: 19px;
+    background-color: #BBB;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#BBB), to(#AAA));
+    background: -moz-linear-gradient(0% 6% 270deg,#BBB, #AAA);
+    background: linear-gradient(180deg,#BBB, #AAA);
+}
+.tdleft {
+    border-left: 1px solid gray; border-bottom: 1px solid gray; border-right: 1px solid gray;
+}
+.tdnormal {
+    border-bottom: 1px solid gray; border-right: 1px solid gray;
+}
+.line {
+    background-color: #F3F3F3;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFF), to(#DDD));
+    background: -moz-linear-gradient(0% 6% 270deg,#FFF, #DDD);
+    background: linear-gradient(180deg,#FFF, #DDD);
+    height: 50px;
+}
+.linkicon
+{
+    float: left;
+    border: 1px solid transparent;
+    margin: 0;
+    padding: 0;
+    padding-top: 3px;
+}
+.linkicon:hover
+{
+    cursor: pointer;
+    border: 1px solid #BBB;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 2px #CCC;
+    background-color: #DDD;
+}
+h3
+{
+    font-size: 18px;
+    margin: 0;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+.headerbutton
+{
+    padding: 6px;
+    border: 1px solid transparent;   
+}
+.headerbutton:hover
+{
+    border: 1px solid #BBB;
+    border-radius: 7px;
+    box-shadow: 0 0 8px 2px #CCC;
+    background-color: #EEE;
+    text-decoration: none;
+}
